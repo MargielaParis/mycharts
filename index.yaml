@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  sk215-myfirst-helmchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-12T09:50:34.273803+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 9fac62931b8ba9bbb913fc03c3d4fa79dd23916c99fbfd381608e3ec42fb0566
+    name: sk215-myfirst-helmchart
+    type: application
+    urls:
+    - https://margielaparis.github.io/mycharts/sk215-myfirst-helmchart-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-12T09:50:34.273525+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 94407c8bccdc9f4d6fa13f9027e077a9085e2075c2d9d901a336e6fa50402c17
+    name: sk215-myfirst-helmchart
+    type: application
+    urls:
+    - https://margielaparis.github.io/mycharts/sk215-myfirst-helmchart-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-10-12T09:50:34.273088+09:00"
